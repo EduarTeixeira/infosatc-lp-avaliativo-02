@@ -1,2 +1,16 @@
 # infosatc-lp-avaliativo-02
- Atividade avaliativa 02 da disciplina de linguagem de programação do curso técnico de informática SATC 2021
+<p align = "center">
+Exercicios Avaliativos de Linguagem de Programação
+<br><br>
+<img src = "https://unisatc.com.br/wp-content/uploads/2021/05/LOGO-VERTICAL-COLORIDA.jpg">
+<br><br>
+Curso Técnico de Informática
+<br>
+Disciplina: Linguagem de Programação
+<br>
+Ano: 2190
+<br>
+Descrição: Exercicios Avaliativos de Linguagem de Programação
+<br>
+Linguagem: Python
+</p>
